@@ -1,1 +1,1 @@
-web: python3 api/external.py
+web: gunicorn api/external:app
