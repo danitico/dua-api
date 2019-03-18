@@ -1,0 +1,4 @@
+hug
+json
+requests
+bs4
